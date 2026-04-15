@@ -1,5 +1,4 @@
 package com.driver;
-import java.util.*;
 public class Main {
     public static class Product {
         public int product(int x, int y) {
